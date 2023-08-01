@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+
 import "./search-panel.css";
 
 const SearchPanel = () => {
@@ -7,7 +7,7 @@ const SearchPanel = () => {
     <input
       type="text"
       className="form-control search-input"
-      placeholder="Тицяй щоб знайти"
+      placeholder="Тицяй для пошуку"
     />
   );
 };
