@@ -7,7 +7,7 @@ const SearchPanel = () => {
     <input
       type="text"
       className="form-control search-input"
-      placeholder="Тицяй для пошуку"
+      placeholder="Тицяй щоб знайти"
     />
   );
 };
